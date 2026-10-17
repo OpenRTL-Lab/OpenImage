@@ -1,0 +1,8 @@
+Organization: OpenRTL Lab (GitHub: OpenRTL-Lab)
+Organization introduction: Open hardware, from algorithms to RTL.
+Repository: OpenImage
+Repository introduction: Catalogue of standalone image-codec hardware.
+File: VERSION
+Website: https://openrtl.top/
+SPDX-FileCopyrightText: 2026 OpenImage contributors
+SPDX-License-Identifier: MIT
