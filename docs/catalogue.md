@@ -16,7 +16,7 @@ This catalogue helps engineers select a standalone image-codec hardware project.
 
 ## Project selection
 
-The [Project index](../README.md) currently lists PNG encoder/decoder version 1.2.1. Its version is independent of this catalogue's VERSION, which identifies the index rather than a codec release.
+The [Project index](../README.md) lists PNG encoder/decoder version 1.2.1 and JPEG XL lossless encoder version 1.0.0. Project versions are independent of this catalogue's VERSION, which identifies the index rather than a codec release.
 
 Follow the project link for its supported image profile, native streaming interface, Chisel source, generated SystemVerilog, reference comparisons and reproduction instructions. Check the selected version's limits before integration; a protocol's theoretical capabilities are not necessarily implemented by a particular accelerator.
 
